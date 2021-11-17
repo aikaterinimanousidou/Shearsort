@@ -1,5 +1,5 @@
 # Shearsort
-Shearsort (Parallel and Distributed Programming Uppsala University)
+Shearsort - Individual Project (Parallel and Distributed Programming Uppsala University)
 
 ## Purpose
 The purpose of this project is to implement a parallel Shear sort algorithm in C with the help of Message Passing Interface (MPI) and evaluate its performance through strong and weak scaling experiments. Access to a super-computer was available for the performance experiments.
